@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hallo, ik ben Enwer Memet
 
-<!--
-**EnwerMemet/EnwerMemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Software Tester | Full-Stack Developer  
+🎯 Focus: Cypress, Playwright, Mobile App QA  
+🧠 Skills: JavaScript, TypeScript, Node.js, Git, CI/CD  
+📍 Locatie: Amsterdam, Nederland  
+📫 Contact: [LinkedIn](https://linkedin.com/in/ememet)
 
-Here are some ideas to get you started:
+## 🚀 Mijn Projecten
+🔹 [Topgeschenken Webshop Tests](https://github.com/ememet/topgeschenken-testing)  
+🔹 [Playwright Automation Project](https://github.com/ememet/playwright-demo)  
+🔹 [Social Media Webapp](https://github.com/ememet/socialapp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Statistieken
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ememet&show_icons=true&theme=default)
+
+---
