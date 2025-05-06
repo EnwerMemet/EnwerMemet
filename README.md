@@ -12,6 +12,7 @@
 🔹 [Social Media Webapp](https://github.com/ememet/socialapp)
 
 ## 📈 Statistieken
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ememet&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enwermemet&show_icons=true&theme=default)
+
 
 ---
