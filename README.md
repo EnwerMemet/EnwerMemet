@@ -11,13 +11,17 @@
 🔹 [Playwright Automation Project](https://github.com/ememet/playwright-demo)  
 🔹 [Social Media Webapp](https://github.com/ememet/socialapp)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enwermemet&show_icons=true&theme=default)
+![EnwerMemet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnwerMemet&show_icons=true&theme=default&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=enwermemet&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enwermemet&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnwerMemet&theme=default)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EnwerMemet&theme=flat&no-frame=true&column=7)
+
+[![EnwerMemet's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EnwerMemet&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
