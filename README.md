@@ -7,9 +7,11 @@
 📫 Contact: [LinkedIn](https://linkedin.com/in/ememet)
 
 ## 🚀 Mijn Projecten
-🔹 [Topgeschenken e-commerce Tests](https://github.com/ememet/topgeschenken-testing)  
-🔹 [Playwright Automation Project](https://github.com/ememet/playwright-demo)  
-🔹 [Social Media Webapp](https://github.com/ememet/socialapp)
+🔹 [DUHRF website - TypeScript](https://github.com/EnwerMemet/dutch-uyghur)
+🔹 [StarWars - React.js + API]([https://github.com/EnwerMemet/dutch-uyghur](https://github.com/EnwerMemet/StarWars))
+🔹 [Playwright Automation Project](https://github.com/EnwerMemet/Automation-Exercise)  
+🔹 [Social Media Webapp - MERN full stack](https://github.com/ememet/socialapp)
+
 
 ## 📊 GitHub Statistics
 
@@ -17,11 +19,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnwerMemet&theme=default)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EnwerMemet&theme=flat&no-frame=true&column=7)
-
-[![EnwerMemet's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EnwerMemet&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
