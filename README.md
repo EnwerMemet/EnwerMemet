@@ -7,7 +7,7 @@
 📫 Contact: [LinkedIn](https://linkedin.com/in/ememet)
 
 ## 🚀 Mijn Projecten
-🔹 [Topgeschenken Webshop Tests](https://github.com/ememet/topgeschenken-testing)  
+🔹 [Topgeschenken e-commerce Tests](https://github.com/ememet/topgeschenken-testing)  
 🔹 [Playwright Automation Project](https://github.com/ememet/playwright-demo)  
 🔹 [Social Media Webapp](https://github.com/ememet/socialapp)
 
