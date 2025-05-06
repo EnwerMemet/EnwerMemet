@@ -11,8 +11,14 @@
 🔹 [Playwright Automation Project](https://github.com/ememet/playwright-demo)  
 🔹 [Social Media Webapp](https://github.com/ememet/socialapp)
 
-## 📈 Statistieken
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enwermemet&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=enwermemet&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enwermemet&layout=compact)
+
 
 
 ---
