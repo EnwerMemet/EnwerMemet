@@ -10,6 +10,16 @@
 
 ## 🚀 Projects I'm Proud Of
 
+### 🔹 [**Playwright Automation**](https://github.com/EnwerMemet/Automation-Exercise)  
+**Tech Stack**: Playwright · End-to-End Testing  
+A project focused on automating UI tests with Playwright to simulate realistic user flows on websites.
+
+
+### 🔹 [**Pathé Regression Cypress Automation**](https://github.com/EnwerMemet/Pathe-Regression)  
+**Tech Stack**: Cypress · End-to-End Testing · API Testing 
+A comprehensive test automation project designed to simulate realistic user flows and ensure application stability. It includes UI and API regression tests, as well as smoke tests, all implemented using Cypress to validate key functionalities across Pathé's web platform.
+
+
 ### 🔹 [**DUHRF Website**](https://github.com/EnwerMemet/dutch-uyghur)  
 **Tech Stack**: TypeScript · Next.js  
 An informational website designed for the Uyghur community in the Netherlands, featuring resources and legal/social information.
@@ -17,10 +27,6 @@ An informational website designed for the Uyghur community in the Netherlands, f
 ### 🔹 [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
 **Tech Stack**: React.js · API Integration  
 An interactive app that fetches and displays data from the Star Wars API, allowing users to explore the Star Wars universe.
-
-### 🔹 [**Playwright Automation**](https://github.com/EnwerMemet/Automation-Exercise)  
-**Tech Stack**: Playwright · End-to-End Testing  
-A project focused on automating UI tests with Playwright to simulate realistic user flows on websites.
 
 ### 🔹 [**Social Media Web App**](https://github.com/ememet/socialapp)  
 **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)  
