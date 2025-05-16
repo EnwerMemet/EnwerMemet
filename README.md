@@ -8,6 +8,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![EnwerMemet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnwerMemet&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=default)
+
+---
+
+Feel free to check out my projects and connect with me on [LinkedIn](https://linkedin.com/in/ememet).
+
+
+
 ## 🚀 Projects I'm Proud Of
 
 ### 🔹 [**Playwright Automation**](https://github.com/EnwerMemet/Automation-Exercise)  
@@ -36,12 +48,4 @@ A complete social media platform that includes user registration, login, and rea
 
 ---
 
-## 📊 GitHub Stats
 
-![EnwerMemet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnwerMemet&show_icons=true&theme=default&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=default)
-
----
-
-Feel free to check out my projects and connect with me on [LinkedIn](https://linkedin.com/in/ememet).
