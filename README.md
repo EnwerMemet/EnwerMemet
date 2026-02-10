@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Enwer Memet
-### **QA Engineer | Full-Stack Developer** *Building reliable software and the automated frameworks that test them.*
+### **Test Automation Engineer | Quality Specialist**
+*📍 Based in Amsterdam, Netherlands*
 
+As a former Full-Stack Developer turned **Test Automation Engineer**, I use my coding background to build advanced, maintainable automation frameworks. I don't just find bugs; I understand the architecture behind them.
+
+---
 - 
 ### 🛠️ Tech Stack & Tools
 - **Testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![RobotFramework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white) ![Karate](https://img.shields.io/badge/Karate-FFBD14?logo=karate&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
