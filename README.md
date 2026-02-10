@@ -22,7 +22,7 @@ Feel free to check out my projects and connect with me on [LinkedIn](https://lin
 
 ## 🚀 Projects I'm Proud Of
 
-### 🔹 [**Playwright Automation**](https://github.com/EnwerMemet/Automation-Exercise)  
+### 🔹 [**Playwright-Test-Automation**](https://github.com/EnwerMemet/Playwright-Test-Automation---SauceLab)  
 **Tech Stack**: Playwright · End-to-End Testing  
 A project focused on automating UI tests with Playwright to simulate realistic user flows on websites.
 
@@ -36,7 +36,7 @@ It includes UI and API regression tests, as well as smoke tests, all implemented
 
 ### 🔹 [**DUHRF Website**](https://github.com/EnwerMemet/dutch-uyghur)   [Private]
 **Tech Stack**: TypeScript · Next.js  
-An informational website designed for the Uyghur community in the Netherlands, featuring resources and legal/social information.
+An informational website designed for the Uyghur community in the Netherlands, featuring resources and social information.
 
 ### 🔹 [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
 **Tech Stack**: React.js · API Integration  
