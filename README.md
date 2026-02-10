@@ -1,51 +1,41 @@
 # 👋 Hi, I'm Enwer Memet
-
-💼 **Software Tester** | **Full-Stack Developer**  
-🎯 **Focus Areas**: Cypress · Playwright · Mobile App QA  
-🧠 **Skills**: JavaScript · TypeScript · Node.js · Git · CI/CD  
-📍 **Location**: Amsterdam, Netherlands  
-📫 **Contact**: [LinkedIn](https://linkedin.com/in/ememet)
+### **QA Engineer | Full-Stack Developer** *Building reliable software and the automated frameworks that test them.*
 
 ---
 
-## 📊 GitHub Stats
-
-![EnwerMemet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnwerMemet&show_icons=true&theme=default&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=default)
-
----
-
-Feel free to check out my projects and connect with me on [LinkedIn](https://linkedin.com/in/ememet).
-
-
-
-## 🚀 Projects I'm Proud Of
-
-### 🔹 [**Playwright-Test-Automation**](https://github.com/EnwerMemet/Playwright-Test-Automation---SauceLab)  
-**Tech Stack**: Playwright · End-to-End Testing  
-A project focused on automating UI tests with Playwright to simulate realistic user flows on websites.
-
-
-### 🔹 [**Pathé Regression Cypress Automation**](https://github.com/EnwerMemet/Pathe-Regression)  [Private]
-**Tech Stack**: Cypress · End-to-End Testing · API Testing 
-
-A comprehensive test automation project designed to simulate realistic user flows and ensure application stability.
-It includes UI and API regression tests, as well as smoke tests, all implemented using Cypress to validate key functionalities across Pathé's web platform.
-
-
-### 🔹 [**DUHRF Website**](https://github.com/EnwerMemet/dutch-uyghur)   [Private]
-**Tech Stack**: TypeScript · Next.js  
-An informational website designed for the Uyghur community in the Netherlands, featuring resources and social information.
-
-### 🔹 [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
-**Tech Stack**: React.js · API Integration  
-An interactive app that fetches and displays data from the Star Wars API, allowing users to explore the Star Wars universe.
-
-### 🔹 [**Social Media Web App**](https://github.com/ememet/socialapp)  
-**Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)  
-A complete social media platform that includes user registration, login, and real-time features such as messaging and notifications.
+### 🛠️ Tech Stack & Tools
+- **Testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662d91?style=flat&logo=appium&logoColor=white)
+- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- **Backend:** ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
+### 🚀 Featured Projects
 
+#### 🧪 Automation & Quality Assurance
+- [**Playwright-Test-Automation**](https://github.com/EnwerMemet/Playwright-Test-Automation---SauceLab)  
+  *Scalable E2E testing architecture using Playwright for SauceLabs. Focuses on the Page Object Model (POM) and cross-browser stability.*
+- **Pathé Regression (Private)** *Comprehensive Cypress suite for UI and API regression testing to ensure high platform availability.*
+
+#### 💻 Full-Stack Development
+- [**Social Media App**](https://github.com/ememet/socialapp)  
+  *A full-stack MERN application featuring real-time messaging, notifications, and secure authentication.*
+- [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
+  *A React-based application that consumes the Star Wars API (SWAPI) with advanced filtering.*
+- [**DUHRF Community Site (Private)**](https://github.com/EnwerMemet/dutch-uyghur)  
+  *Built with Next.js and TypeScript to provide resources and community support in the Netherlands.*
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnwerMemet&show_icons=true&theme=radical&count_private=true" alt="Enwer Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Get In Touch
+- **Location:** 📍 Amsterdam, Netherlands  
+- **LinkedIn:** [Enwer Memet](https://linkedin.com/in/ememet)
