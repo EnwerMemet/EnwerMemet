@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Enwer Memet
 ### **QA Engineer | Full-Stack Developer** *Building reliable software and the automated frameworks that test them.*
 
----
-
+- 
 ### 🛠️ Tech Stack & Tools
-- **Testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662d91?style=flat&logo=appium&logoColor=white)
+- **Testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![RobotFramework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white) ![Karate](https://img.shields.io/badge/Karate-FFBD14?logo=karate&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 - **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 - **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 - **Backend:** ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
