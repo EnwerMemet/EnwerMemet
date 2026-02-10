@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnwerMemet&show_icons=true&theme=radical&count_private=true" alt="Enwer Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EnwerMemet&show_icons=true&theme=radicall&count_private=true" alt="Enwer Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnwerMemet&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
