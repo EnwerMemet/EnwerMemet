@@ -26,9 +26,8 @@ As a former Full-Stack Developer turned **Test Automation Engineer**, I use my c
   *A full-stack MERN application featuring real-time messaging, notifications, and secure authentication.*
 - [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
   *A React-based application that consumes the Star Wars API (SWAPI) with advanced filtering.*
-- [**DUHRF Community Site (Private)**](https://github.com/EnwerMemet/dutch-uyghur)
-  *Built with Next.js and TypeScript to provide resources and community support in the Netherlands.*
--  Please visit: https://www.duhrf.org
+  - [**DUHRF Community Site (Private)**]([https://github.com/EnwerMemet/dutch-uyghur](https://www.duhrf.org))  
+  *Built with TypeScript and Next.js to provide resources and community support for Uyghurs in the Netherlands.*
 
 ---
 
