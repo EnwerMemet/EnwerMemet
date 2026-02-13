@@ -28,7 +28,7 @@ As a former Full-Stack Developer turned **Test Automation Engineer**, I use my c
   *A React-based application that consumes the Star Wars API (SWAPI) with advanced filtering.*
 - [**DUHRF Community Site (Private)**](https://github.com/EnwerMemet/dutch-uyghur)
   *Built with Next.js and TypeScript to provide resources and community support in the Netherlands.*
-  ** please visit: https://www.duhrf.org*
+- ** please visit: https://www.duhrf.org*
 
 ---
 
