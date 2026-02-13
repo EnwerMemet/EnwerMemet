@@ -22,12 +22,15 @@ As a former Full-Stack Developer turned **Test Automation Engineer**, I use my c
 - **Pathé Regression (Private)** *Comprehensive Cypress suite for UI and API regression testing to ensure high platform availability.*
 
 #### 💻 Full-Stack Development
+
 - [**Social Media App**](https://github.com/ememet/socialapp)  
-  *A full-stack MERN application featuring real-time messaging, notifications, and secure authentication.*
+  *A comprehensive **MERN** (MongoDB, Express, React, Node.js) application featuring real-time messaging via **WebSockets**, push notifications, and secure **JWT** authentication.*
+
 - [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
-  *A React-based application that consumes the Star Wars API (SWAPI) with advanced filtering.*
-  - [**DUHRF Community Site (Private)**]([https://github.com/EnwerMemet/dutch-uyghur](https://www.duhrf.org))  
-  *Built with TypeScript and Next.js to provide resources and community support for Uyghurs in the Netherlands.*
+  *A **React** application designed to consume and visualize the **Star Wars API (SWAPI)**, utilizing complex state management and advanced client-side filtering.*
+
+- [**DUHRF Community Site**](https://www.duhrf.org)  
+  *A production-grade platform built with **TypeScript** and **Next.js**, providing critical resources and community support for Uyghurs in the Netherlands. (Private Repository)*
 
 ---
 
