@@ -23,14 +23,16 @@ As a former Full-Stack Developer turned **Test Automation Engineer**, I use my c
 
 #### 💻 Full-Stack Development
 
-- [**Social Media App**](https://github.com/ememet/socialapp)  
-  *A comprehensive **MERN** (MongoDB, Express, React, Node.js) application featuring real-time messaging via **WebSockets**, push notifications, and secure **JWT** authentication.*
+- [**DUHRF Community Site**](https://www.duhrf.org)  
+  *A production-grade platform built with **TypeScript** and **Next.js**, providing critical resources and community support for Uyghurs in the Netherlands. (Private Repository)*
 
 - [**Star Wars Explorer**](https://github.com/EnwerMemet/StarWars)  
   *A **React** application designed to consume and visualize the **Star Wars API (SWAPI)**, utilizing complex state management and advanced client-side filtering.*
+  
+- [**Social Media App**](https://github.com/ememet/socialapp)  
+  *A comprehensive **MERN** (MongoDB, Express, React, Node.js) application featuring real-time messaging via **WebSockets**, push notifications, and secure **JWT** authentication.*
 
-- [**DUHRF Community Site**](https://www.duhrf.org)  
-  *A production-grade platform built with **TypeScript** and **Next.js**, providing critical resources and community support for Uyghurs in the Netherlands. (Private Repository)*
+
 
 ---
 
